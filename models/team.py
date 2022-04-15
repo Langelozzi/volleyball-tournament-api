@@ -2,6 +2,8 @@
 # Date: 04/11/22
 # Purpose: practice application for final exam
 
+'''File containing Team class'''
+
 # Imports
 import json
 from models.player import Player

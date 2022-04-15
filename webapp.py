@@ -2,6 +2,8 @@
 # Date: 04/11/22
 # Purpose: practice application for final exam
 
+'''File containing endpoints for the Volleyball tournament API'''
+
 # Imports
 from flask import Flask, jsonify, request, render_template
 from models.player import Player

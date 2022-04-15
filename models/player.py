@@ -2,6 +2,8 @@
 # Date: 04/11/22
 # Purpose: practice application for final exam
 
+'''File containing Player class'''
+
 class Player:
     def __init__(self, name: str, position: str, team: str) -> None:
         """Constructor method
